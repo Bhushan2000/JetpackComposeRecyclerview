@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Jetpack Recyclerview</string>
+    <string name="title_activity_info">InfoActivity</string>
+</resources>
